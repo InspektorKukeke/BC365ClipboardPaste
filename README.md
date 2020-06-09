@@ -12,7 +12,7 @@ Ideally, you would want to keep the results in a blob when page is closed.
 After 
 ![](HTMLPasteFromClipboard/Source.png)
 
-Page source divs with images
+Page source divs with images (base64 strings inside "src")
 ![](HTMLPasteFromClipboard/Action.png)
 
 Cheers!

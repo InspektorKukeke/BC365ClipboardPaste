@@ -10,9 +10,9 @@ A simple extension on how to paste an image file from clipboard onto an HTML div
 Ideally, you would want to keep the results in a blob when page is closed.
 
 After 
-![](HTMLPasteFromClipboard/Action.png)
+![](HTMLPasteFromClipboard/Source.png)
 
 Page source divs with images
-![](HTMLPasteFromClipboard/Source.png)
+![](HTMLPasteFromClipboard/Action.png)
 
 Cheers!

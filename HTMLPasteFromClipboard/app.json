@@ -1,0 +1,26 @@
+{
+  "id": "e299e17b-e140-4c69-82fe-9be0ce0c4c0c",
+  "name": "HTMLPasteFromClipboard",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://HTMLPasteFromClipboard.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
